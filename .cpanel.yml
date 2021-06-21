@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/bdcrojmj/test.bdcrowdfunding.com/
+    - export DEPLOYPATH=/home/bdcrojmj/public_html/
     - /bin/cp * $DEPLOYPATH
-  
+ 
